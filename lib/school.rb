@@ -14,7 +14,9 @@ class School
     @grade = grade
   end
 
-  roster {} = << 
+  def grade(number)
+    @roster[number]
+  end
 
 
 
