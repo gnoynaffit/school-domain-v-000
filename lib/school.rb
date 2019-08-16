@@ -14,6 +14,8 @@ class School
     @grade = grade
   end
 
+  roster {} = << 
+
 
 
 
