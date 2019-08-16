@@ -26,11 +26,4 @@ class School
       @roster[grade] = name.sort
     end
   end
-
-
-
-
-
-
-
 end
